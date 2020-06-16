@@ -4,7 +4,8 @@
 <dict>
 	<key>HierarchyData</key>
 	<array>
-		<string>B37C18FD-560C-462B-851A-706E6BBDA0F0</string>
+		<string>4388E20F-229E-4FAD-A03D-A9C74F7E7C57</string>
+		<string>084301FF-441A-4CD1-ACB9-AA5626A14843</string>
 		<string>03F61D76-2D04-4FEB-87CC-EB95C6F07E1E</string>
 		<string>2B362223-9B1F-4E42-945A-22A92D9C681D</string>
 		<string>9E6517C0-DE19-47ED-8D2F-01FDA36E14AB</string>
@@ -61,6 +62,54 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
+		<key>084301FF-441A-4CD1-ACB9-AA5626A14843</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/ACAAAAAAQQMAAAAGL8Mn85lkqUhmhJqIu7nnr1
+				cs6Wu6KvdwoRcCOcHAx77AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAANAAAAAQEAAGJvbGQtdGF4
+				b25vbXkAAAANAAAAAQEAAGJvbGQtdHJlZS5waHAAAAAU
+				AAAAAQYAABAAAAAgAAAAMAAAAEQAAABcAAAACAAAAAQD
+				AAAQZwIAAAAAAAgAAAAEAwAAhXQNAAAAAAAIAAAABAMA
+				ACNYDgAAAAAACAAAAAQDAAA02w0EAwAAAAgAAAAEAwAA
+				HtwNBAMAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
+				AAAACAAAAAAEAABBv72iUAAAABgAAAABAgAAAQAAAAAA
+				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
+				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAOAEA2kAAAAI
+				AAAAAAQAAEG+3V1iAAAAJAAAAAEBAAAyNUU0Mjg2RC03
+				MTJDLTM4OTktQjQzRi01RDNGNkE4QkQxMjEYAAAAAQIA
+				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
+				LwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAE
+				EAAAdAAAAAAAAAAFEAAA4AAAAAAAAAAQEAAADAEAAAAA
+				AABAEAAA/AAAAAAAAAACIAAA2AEAAAAAAAAFIAAASAEA
+				AAAAAAAQIAAAWAEAAAAAAAARIAAAjAEAAAAAAAASIAAA
+				bAEAAAAAAAATIAAAfAEAAAAAAAAgIAAAuAEAAAAAAAAw
+				IAAA5AEAAAAAAAABwAAALAEAAAAAAAARwAAAIAAAAAAA
+				AAASwAAAPAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/bold-taxonomy/bold-tree.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./bold-tree.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>bold-tree.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>2B362223-9B1F-4E42-945A-22A92D9C681D</key>
 		<dict>
 			<key>ItemData</key>
@@ -111,6 +160,54 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
+		<key>4388E20F-229E-4FAD-A03D-A9C74F7E7C57</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+wCAAAAAAQQMAAAAGST20GVAUonVcUywN7kv5lu
+				f7bsuwt6feUx6hl1PkF/6AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAANAAAAAQEAAGJvbGQtdGF4
+				b25vbXkAAAAKAAAAAQEAAC5naXRpZ25vcmUAABQAAAAB
+				BgAAEAAAACAAAAAwAAAARAAAAFwAAAAIAAAABAMAABBn
+				AgAAAAAACAAAAAQDAACFdA0AAAAAAAgAAAAEAwAAI1gO
+				AAAAAAAIAAAABAMAADTbDQQDAAAACAAAAAQDAAC+xA4E
+				AwAAABQAAAABBgAAjAAAAJwAAACsAAAAvAAAAMwAAAAI
+				AAAAAAQAAEHCTGWJlWKaGAAAAAECAAABAAAAAAAAAA8A
+				AAAAAAAAAAAAAAAAAAAIAAAABAMAAAMAAAAAAAAABAAA
+				AAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAA
+				TWFjaW50b3NoIEhECAAAAAQDAAAA4AQDaQAAAAgAAAAA
+				BAAAQb7dXWIAAAAkAAAAAQEAADI1RTQyODZELTcxMkMt
+				Mzg5OS1CNDNGLTVEM0Y2QThCRDEyMRgAAAABAgAAgQAA
+				AAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAA
+				AAAAAAEFAADMAAAA/v///wEAAAAAAAAAEAAAAAQQAABw
+				AAAAAAAAAAUQAADcAAAAAAAAABAQAAAIAQAAAAAAAEAQ
+				AAD4AAAAAAAAAAIgAADUAQAAAAAAAAUgAABEAQAAAAAA
+				ABAgAABUAQAAAAAAABEgAACIAQAAAAAAABIgAABoAQAA
+				AAAAABMgAAB4AQAAAAAAACAgAAC0AQAAAAAAADAgAADg
+				AQAAAAAAAAHAAAAoAQAAAAAAABHAAAAgAAAAAAAAABLA
+				AAA4AQAAAAAAABDQAAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/bold-taxonomy/.gitignore</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./.gitignore</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>.gitignore</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>9E6517C0-DE19-47ED-8D2F-01FDA36E14AB</key>
 		<dict>
 			<key>ItemData</key>
@@ -154,54 +251,6 @@
 			</dict>
 			<key>ItemName</key>
 			<string>README.md</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>B37C18FD-560C-462B-851A-706E6BBDA0F0</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>BookmarkData</key>
-				<data>
-				Ym9va/ACAAAAAAQQMAAAAGL8Mn85lkqUhmhJqIu7nnr1
-				cs6Wu6KvdwoRcCOcHAx77AEAAAQAAAADAwAAAAgAKAUA
-				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
-				AAEBAABEZXZlbG9wbWVudAANAAAAAQEAAGJvbGQtdGF4
-				b25vbXkAAAANAAAAAQEAAGJvbGQtdHJlZS5waHAAAAAU
-				AAAAAQYAABAAAAAgAAAAMAAAAEQAAABcAAAACAAAAAQD
-				AAAQZwIAAAAAAAgAAAAEAwAAhXQNAAAAAAAIAAAABAMA
-				ACNYDgAAAAAACAAAAAQDAAA02w0EAwAAAAgAAAAEAwAA
-				HtwNBAMAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
-				AAAACAAAAAAEAABBv72iUAAAABgAAAABAgAAAQAAAAAA
-				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
-				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
-				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAOAEA2kAAAAI
-				AAAAAAQAAEG+3V1iAAAAJAAAAAEBAAAyNUU0Mjg2RC03
-				MTJDLTM4OTktQjQzRi01RDNGNkE4QkQxMjEYAAAAAQIA
-				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
-				LwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAE
-				EAAAdAAAAAAAAAAFEAAA4AAAAAAAAAAQEAAADAEAAAAA
-				AABAEAAA/AAAAAAAAAACIAAA2AEAAAAAAAAFIAAASAEA
-				AAAAAAAQIAAAWAEAAAAAAAARIAAAjAEAAAAAAAASIAAA
-				bAEAAAAAAAATIAAAfAEAAAAAAAAgIAAAuAEAAAAAAAAw
-				IAAA5AEAAAAAAAABwAAALAEAAAAAAAARwAAAIAAAAAAA
-				AAASwAAAPAEAAAAAAAAQ0AAABAAAAAAAAAA=
-				</data>
-				<key>FileURL</key>
-				<string>file:///Users/rpage/Development/bold-taxonomy/bold-tree.php</string>
-				<key>HasSecurityScope</key>
-				<true/>
-				<key>RelativePath</key>
-				<string>./bold-tree.php</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>bold-tree.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
